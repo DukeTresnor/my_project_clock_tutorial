@@ -1200,6 +1200,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   hoursPivot: {fileID: 1773445237}
+  minutesPivot: {fileID: 1945375944}
+  secondsPivot: {fileID: 300349020}
 --- !u!1 &1412223877
 GameObject:
   m_ObjectHideFlags: 0
